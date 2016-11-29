@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LFVDKnob_Example' do
+  pod 'LFVDKnob', :path => '../'
+
+  target 'LFVDKnob_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
