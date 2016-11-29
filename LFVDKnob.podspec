@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 LFVDKnob is a rotary knob designed for audio applications that is designable via the interface builder.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/LFVDKnob'
+  s.homepage         = 'https://github.com/lufevida/LFVDKnob'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lufevida' => 'lufevida@gmail.com' }
