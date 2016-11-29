@@ -22,7 +22,7 @@ pod "LFVDKnob"
 
 ## Author
 
-lufevida, lufevida@gmail.com
+Luis F. Vieira Damiani
 
 ## License
 
